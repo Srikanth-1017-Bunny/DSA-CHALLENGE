@@ -1,17 +1,32 @@
-15 Days Coding Challenge - DSA Practice
+🚀 15 Days Coding Challenge – DSA Practice
+Welcome to my 15 Days Coding Challenge inspired by @digg_deeperr.
+For 15 consecutive days, I’ll solve and upload 3 Data Structures & Algorithms problems daily, with the goal of becoming more consistent and sharper at problem-solving.
 
-Welcome to my 15-day coding challenge focused on Data Structures and Algorithms (DSA) practice! The goal is to solve 3 LeetCode problems daily for 15 days, improving my problem-solving skills and tracking progress.
+📌 Problems Folder Structure
+Each folder is named after the problem's ID and title (LeetCode-style), and contains clean, well-documented Java solutions.
 
-Progress
+📁 1-two-sum
+📁 26-remove-duplicates-from-sorted-array
+📁 53-maximum-subarray
+📅 Progress Tracker
 
-Day 1:
+...			
+Day 15	🚀 Final Day	🚀 Final Day	🚀 Final Day
+🧠 Goals
+Practice problem-solving consistently
+Build logical thinking and debugging skills
+Write clean and optimized Java code
+Learn and apply key DSA concepts
+🔗 Challenge Creator
+This challenge is inspired and guided by @digg_deeperr, who encourages deeper learning, not just faster answers.
 
-Two Sum - Solved
+🌐 Follow My Journey
+📌 LinkedIn: www.linkedin.com/in/
+khandesh-srikanth-19b1442a9
 
-Remove Duplicates from Sorted Array - Solved
+📌 GitHub: 
 
-Maximum Subarray - Solved
+I’ll be posting daily updates and insights — feel free to connect and follow along!
 
-Future Plans
-
-Continue solving 3 problems daily.
+🏷️ Tags
+#DSA #Java #CodingChallenge #ProblemSolving #LeetCode #DigDeeper #100DaysOfCode #LearningInPublic
