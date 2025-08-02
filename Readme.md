@@ -23,9 +23,14 @@ This challenge is inspired and guided by @digg_deeperr, who encourages deeper le
 🌐 Follow My Journey
 📌 LinkedIn: www.linkedin.com/in/khandesh-srikanth-19b1442a9
 
-📌 GitHub: 
+📌 GitHub: https://github.com/Srikanth-1017-Bunny
 
 I’ll be posting daily updates and insights — feel free to connect and follow along!
 
+🔗 Challenge Creator
+This challenge is inspired and guided by Linkedin:
+https://www.linkedin.com/in/tejo-kaushal-4a32b5256/, who encourages deeper learning, not just faster answers.
+
 🏷️ Tags
 #DSA #Java #CodingChallenge #ProblemSolving #LeetCode #DigDeeper #100DaysOfCode #LearningInPublic
+#DigDeeper
