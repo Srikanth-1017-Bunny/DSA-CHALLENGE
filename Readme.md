@@ -21,8 +21,7 @@ Learn and apply key DSA concepts
 This challenge is inspired and guided by @digg_deeperr, who encourages deeper learning, not just faster answers.
 
 🌐 Follow My Journey
-📌 LinkedIn: www.linkedin.com/in/
-khandesh-srikanth-19b1442a9
+📌 LinkedIn: www.linkedin.com/in/khandesh-srikanth-19b1442a9
 
 📌 GitHub: 
 
